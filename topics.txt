@@ -1,0 +1,6 @@
+Different types of loops, 
+Multiple Stepping in For Loops | 
+Continue and break between loops | 
+Why & How Functions in PHP, Writing-Calling | 
+Function parameter, Type hinting-checking | 
+Understanding Function Return Type
